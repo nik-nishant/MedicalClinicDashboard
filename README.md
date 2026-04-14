@@ -5,7 +5,7 @@ This project demonstrates patient appointment analysis using:
 - Excel Dashboard (`cleaned_data.xlsx`)
 - Streamlit Web App (`scripts/dashboard.py`)
 
-##  Files
+## 📂 Files
 - `data/raw_data.csv` → original dataset
 - `data/cleaned_data.csv` → cleaned dataset
 - `data/cleaned_data.xlsx` → Excel dashboard
